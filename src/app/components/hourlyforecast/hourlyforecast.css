@@ -1,0 +1,18 @@
+.hourly-content {
+    width: 9rem;
+    padding: 1rem;
+    text-align: center;
+    justify-content:center;
+    align-items:center;
+}
+
+.hum-wind {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.img {
+    height: 1rem;
+}
