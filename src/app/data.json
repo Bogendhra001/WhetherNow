@@ -1,0 +1,30 @@
+{
+	"01d": ["clear1.jpg","clear2.jpg","clear3.jpg","clear4.jpg","clear5.jpg","clear6.jpg","clear7.jpg","clear8.jpg","clear9.jpg"],
+    "02d": ["partly-cloudy1.jpg", "partly-cloudy2.jpg", "partly-cloudy3.jpg", "partly-cloudy4.jpg", "partly-cloudy5.jpg", "partly-cloudy6.jpg", "partly-cloudy7.jpg"],
+    "02n" :["partly-cloudy1.jpg", "partly-cloudy2.jpg", "partly-cloudy3.jpg", "partly-cloudy4.jpg", "partly-cloudy5.jpg", "partly-cloudy6.jpg", "partly-cloudy7.jpg"],
+    "03d": ["overcast1.jpg", "overcast2.jpg", "overcast3.jpg", "overcast4.jpg", "overcast5.jpg", "overcast6.jpg", "overcast7.jpg", "overcast8.jpg", "overcast9.jpg"],
+    "03n" : ["partly-cloudy1.jpg", "partly-cloudy2.jpg", "partly-cloudy3.jpg", "partly-cloudy4.jpg", "partly-cloudy5.jpg", "partly-cloudy6.jpg", "partly-cloudy7.jpg"],
+	"04d": ["overcast1.jpg", "overcast2.jpg", "overcast3.jpg", "overcast4.jpg", "overcast5.jpg", "overcast6.jpg", "overcast7.jpg", "overcast8.jpg", "overcast9.jpg"],
+    "04n" : ["partly-cloudy1.jpg", "partly-cloudy2.jpg", "partly-cloudy3.jpg", "partly-cloudy4.jpg", "partly-cloudy5.jpg", "partly-cloudy6.jpg", "partly-cloudy7.jpg"],
+	"09d": ["rain1.jpg", "rain2.jpg", "rain3.jpg", "rain4.jpg", "rain5.jpg", "rain6.jpg", "rain7.jpg", "rain8.jpg", "rain9.jpg", "rain10.jpg"],
+    "09n" : ["rain1.jpg", "rain2.jpg", "rain3.jpg", "rain4.jpg", "rain5.jpg", "rain6.jpg", "rain7.jpg", "rain8.jpg", "rain9.jpg", "rain10.jpg"],
+    "10d": ["rain1.jpg", "rain2.jpg", "rain3.jpg", "rain4.jpg", "rain5.jpg", "rain6.jpg", "rain7.jpg", "rain8.jpg", "rain9.jpg", "rain10.jpg"],
+    "10n" :["partly-cloudy1.jpg", "partly-cloudy2.jpg", "partly-cloudy3.jpg", "partly-cloudy4.jpg", "partly-cloudy5.jpg", "partly-cloudy6.jpg", "partly-cloudy7.jpg"],
+    "11d": ["thunderstorm1.jpg", "thunderstorm2.jpg", "thunderstorm3.jpg", "thunderstorm4.jpg", "thunderstorm5.jpg", "thunderstorm6.jpg", "thunderstorm7.jpg", "thunderstorm8.jpg", "thunderstorm9.jpg", "thunderstorm10.jpg", "thunderstorm11.jpg", "thunderstorm12.jpg"],
+    "11n" : ["partly-cloudy1.jpg", "partly-cloudy2.jpg", "partly-cloudy3.jpg", "partly-cloudy4.jpg", "partly-cloudy5.jpg", "partly-cloudy6.jpg", "partly-cloudy7.jpg"],
+    "13d": ["snow1.jpg", "snow2.jpg", "snow3.jpg", "snow4.jpg", "snow5.jpg", "snow6.jpg", "snow7.jpg", "snow8.jpg", "snow9.jpg", "snow10.jpg", "snow11.jpg", "snow12.jpg"],
+    "13n" : ["partly-cloudy1.jpg", "partly-cloudy2.jpg", "partly-cloudy3.jpg", "partly-cloudy4.jpg", "partly-cloudy5.jpg", "partly-cloudy6.jpg", "partly-cloudy7.jpg"],
+    "50d": ["mist1.jpg", "mist2.jpg", "mist3.jpg", "mist4.jpg", "mist5.jpg"],
+    "50n": ["mist1.jpg", "mist2.jpg", "mist3.jpg", "mist4.jpg", "mist5.jpg"],
+    "51d" : ["mist1.jpg", "mist2.jpg", "mist3.jpg", "mist4.jpg", "mist5.jpg"],
+    "52d" : ["rain1.jpg", "rain2.jpg", "rain3.jpg", "rain4.jpg", "rain5.jpg", "rain6.jpg", "rain7.jpg", "rain8.jpg", "rain9.jpg", "rain10.jpg"],
+    "53d" : ["rain1.jpg", "rain2.jpg", "rain3.jpg", "rain4.jpg", "rain5.jpg", "rain6.jpg", "rain7.jpg", "rain8.jpg", "rain9.jpg", "rain10.jpg"],
+    "54d" : ["rain1.jpg", "rain2.jpg", "rain3.jpg", "rain4.jpg", "rain5.jpg", "rain6.jpg", "rain7.jpg", "rain8.jpg", "rain9.jpg", "rain10.jpg"],
+    "55d" : ["snow1.jpg", "snow2.jpg", "snow3.jpg", "snow4.jpg", "snow5.jpg", "snow6.jpg", "snow7.jpg", "snow8.jpg", "snow9.jpg", "snow10.jpg", "snow11.jpg", "snow12.jpg"],
+    "56d" : ["snow1.jpg", "snow2.jpg", "snow3.jpg", "snow4.jpg", "snow5.jpg", "snow6.jpg", "snow7.jpg", "snow8.jpg", "snow9.jpg", "snow10.jpg", "snow11.jpg", "snow12.jpg"],
+    "57d" : ["thunderstorm1.jpg", "thunderstorm2.jpg", "thunderstorm3.jpg", "thunderstorm4.jpg", "thunderstorm5.jpg", "thunderstorm6.jpg", "thunderstorm7.jpg", "thunderstorm8.jpg", "thunderstorm9.jpg", "thunderstorm10.jpg", "thunderstorm11.jpg", "thunderstorm12.jpg"],
+    "58d" : ["thunderstorm1.jpg", "thunderstorm2.jpg", "thunderstorm3.jpg", "thunderstorm4.jpg", "thunderstorm5.jpg", "thunderstorm6.jpg", "thunderstorm7.jpg", "thunderstorm8.jpg", "thunderstorm9.jpg", "thunderstorm10.jpg", "thunderstorm11.jpg", "thunderstorm12.jpg"],
+    "59d" : ["mostly-clear1.jpg", "mostly-clear2.jpg", "clear2.jpg","clear3.jpg","clear4.jpg","clear5.jpg"]
+}
+
+	

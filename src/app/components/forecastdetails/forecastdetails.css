@@ -1,0 +1,54 @@
+.detials {
+    display: flex;
+    width: 14rem;
+}
+
+.forecastdetails-content {
+    display: flex;
+    /* flex-direction: column; */
+    height: 70%;
+    justify-content: space-between;
+    width: 24rem;
+}
+
+.details-value {
+    text-align: right;
+    /* width: 14rem; */
+}
+
+.fc-more-details {
+    display: flex;
+    flex-direction: column;
+    /* align-items: center;
+    justify-content: center; */
+}
+
+.details-left {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.details-right {
+    display: flex;
+    align-items: flex-start;
+}
+
+.details-img {
+    height: 4rem;
+}
+
+.details-temp {
+    font-size: 2rem;
+}
+
+.feellike-p {
+    font-size: 0.7rem;
+}
+
+.temp-more-details {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

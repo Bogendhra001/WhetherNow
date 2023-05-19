@@ -1,0 +1,7 @@
+{
+    "cold": "/temp_icons/cold.png",
+    "normal": "/temp_icons/normal.png",
+    "moderate": "/temp_icons/moderate.png",
+    "high": "/temp_icons/high.png"
+}
+
